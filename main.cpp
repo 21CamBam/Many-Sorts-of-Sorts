@@ -1,3 +1,5 @@
+// The following code is the base code given to me by my professor to run my program
+// Please note that it is not mine
 // Cpt S 223 - Homework 3 - Sorting
 // If you modify this file do so only for testing purposes then revert 
 // back to the original version before submitting your homework.
